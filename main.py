@@ -4,7 +4,6 @@
 # This program is intended to determine the various factors of life expectancy.
 
 class unhealthyPeople:
-# most common couple pairing
 
 def __init__(self,unhealthyMale,unhealthyFemale):
     self.unhealthyMale = unhealthyMale
